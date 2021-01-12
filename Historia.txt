@@ -2,3 +2,9 @@ Esta es kla historia de Chrono
 
 tengo 36 años
 Y mido 1.83
+<<<<<<< HEAD
+=======
+cambio 3
+cambio
+mi vida
+>>>>>>> cabecera
